@@ -424,7 +424,3 @@ WHERE categoria = 'eletrica';
 | 4 | Peça mais barata | `MIN` | `preco_mais_barato` |
 | 5 | Preço médio | `AVG` + `ROUND` | `preco_medio` |
 | 6 | Valor total das elétricas | `SUM` + `WHERE` | `valor_total_eletrica` |
-
----
-
-<p align="center">Feito com 💙 em PHP + PostgreSQL</p>
